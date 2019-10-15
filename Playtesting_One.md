@@ -17,7 +17,7 @@
 > _Answer:_  Yes, the developer has stated they wanted to create a Days Gone (ps4 exclusive) type zombie game but for the pc platform.
 
 **Question:** During gameplay did the mechanics and theme go together and reinforce each other?
-> _Answer:_ Yes,
+> _Answer:_ Yes, yes being a zombie game stealth is one of the first mechanics to come to mind. This game has a crouch stance and starts the player with supressed pistol if they want to slowly make their way around the zombies.
 
 **Question:** Did you have fun playing this game?
 > _Answer:_ Yes, the gameplay was well written and mechanics worked as they should.
