@@ -1,6 +1,6 @@
 * Game Publisher: Nitrome
 * Game Rating: 3 out 5
-* [Game Title Website](https://apps.apple.com/us/app/sprint-rpg/id1277023608)
+* [https://apps.apple.com/us/app/sprint-rpg/id1277023608]
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Not entirely, the game doesn't display in words how to the play game but it's simplistic controls are all readable on the screen.
